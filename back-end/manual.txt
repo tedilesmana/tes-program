@@ -1,0 +1,3 @@
+cd Desktop/project/back-end
+
+cd Desktop/project/front-end
